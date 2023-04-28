@@ -114,3 +114,17 @@ form label, form legend{
     background-color: darkorange;
     transform: scale(1.1);
 }
+
+table {
+    margin: 40px 40px;
+    padding: 50%;
+}
+thead{
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+td, th{
+    border: 1px solid #000000;
+    padding: 4px 10px;
+}
